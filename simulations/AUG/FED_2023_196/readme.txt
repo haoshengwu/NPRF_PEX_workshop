@@ -1,0 +1,1 @@
+Here are the SOLPS-ITER cases for AUG from paper: WU, H., et al. SOLPS-ITER numerical evaluation about the effect of drifts in a divertor configuration of ASDEX-Upgrade and a limiter configuration of J-TEXT. Fusion Engineering and Design, 2023, 196: 114023.
